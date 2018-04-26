@@ -1,0 +1,95 @@
+PODS:
+  - Cosmos (15.0.0)
+  - CTKFlagPhoneNumber (0.4.5):
+    - libPhoneNumber-iOS
+  - DGElasticPullToRefresh (1.1)
+  - Firebase/Auth (4.11.0):
+    - Firebase/Core
+    - FirebaseAuth (= 4.5.0)
+  - Firebase/Core (4.11.0):
+    - FirebaseAnalytics (= 4.1.0)
+    - FirebaseCore (= 4.0.18)
+  - FirebaseAnalytics (4.1.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseAuth (4.5.0):
+    - FirebaseAnalytics (~> 4.1)
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (4.0.18):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (2.0.10):
+    - FirebaseCore (~> 4.0)
+  - GoogleToolboxForMac/DebugUtils (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/NSData+zlib (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.3):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.3)
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.3)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.3)
+  - GTMSessionFetcher/Core (1.1.14)
+  - GuillotineMenu (3.0.1)
+  - Kingfisher (4.6.3)
+  - libPhoneNumber-iOS (0.9.13)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - Parchment (1.0.3)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - Segmentio (3.0)
+  - UIEmptyState (3.1.0)
+  - ViewAnimator (1.0.5)
+
+DEPENDENCIES:
+  - Cosmos (~> 15.0)
+  - CTKFlagPhoneNumber
+  - DGElasticPullToRefresh
+  - Firebase/Auth
+  - GuillotineMenu (~> 3.0)
+  - Kingfisher (~> 4.0)
+  - NVActivityIndicatorView
+  - Parchment
+  - RxCocoa
+  - RxSwift
+  - Segmentio (~> 3.0)
+  - UIEmptyState
+  - ViewAnimator
+
+SPEC CHECKSUMS:
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  CTKFlagPhoneNumber: 5dade3075b9037c01652782a73d6319fa4213434
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  Firebase: cc13dfab1038c8b45d7903e01fc690451d6d0b24
+  FirebaseAnalytics: 3dfae28d4a5e06f86c4fae830efc2ad3fadb19bc
+  FirebaseAuth: 147bf340a0706b44ca1753d6b41ebafd9687cfe6
+  FirebaseCore: b981f47e5254cbcfdeb483355300d743f6fcab2c
+  FirebaseInstanceID: 8d20d890d65c917f9f7d9950b6e10a760ad34321
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  GTMSessionFetcher: 390ea358e5a0d0133153806f744662dad933d06b
+  GuillotineMenu: d186bcb1b827d9c2b8da564bc4535a0c4413acb1
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  libPhoneNumber-iOS: e444379ac18bbfbdefad571da735b2cd7e096caa
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  Parchment: 964ae2fa48431d87148c3bb37f0b9c86c7ceee4b
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  Segmentio: 1607fba3b42230f5f91e997d1a3f337f1176674c
+  UIEmptyState: 9b501dc90933ce2743949ecbf18c20ffb33a2be9
+  ViewAnimator: d87d691fbcaf994db7ee8fc632afa3073bd3b851
+
+PODFILE CHECKSUM: cb8bdca119afd752782585587a56aaef54aef082
+
+COCOAPODS: 1.4.0
