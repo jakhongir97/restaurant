@@ -56,6 +56,7 @@ class LoginViewController: UIViewController , UITextFieldDelegate {
             if self.phoneNumberTextField.isValid(phoneNumber: number) {
                 self.nextButton.isEnabled = true
                 self.nextButton.alpha = 1
+                self.phoneNumberTextField.resignFirstResponder()
                 
             } else {
                 self.nextButton.isEnabled = false
