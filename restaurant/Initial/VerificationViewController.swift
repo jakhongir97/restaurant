@@ -29,6 +29,7 @@ class VerificationViewController: UIViewController , UITextFieldDelegate {
         super.viewDidLoad()
         
         self.setupView()
+        self.hideKeyboardWhenTappedAround()
     }
     
     override func viewWillAppear(_ animated: Bool) {

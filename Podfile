@@ -19,7 +19,7 @@ pod 'RxSwift'
 pod 'RxCocoa'
 pod 'UIEmptyState'
 pod "CTKFlagPhoneNumber"
-
+pod 'NVActivityIndicatorView'
 
 
 

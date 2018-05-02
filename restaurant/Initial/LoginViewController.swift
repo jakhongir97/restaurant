@@ -27,6 +27,7 @@ class LoginViewController: UIViewController , UITextFieldDelegate {
         super.viewDidLoad()
         
         setupView()
+        self.hideKeyboardWhenTappedAround()
 
     }
     
